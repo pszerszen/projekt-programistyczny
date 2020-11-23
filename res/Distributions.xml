@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Distributions>
+        <Distribution>
+                <Name>Normal</Name>
+                <Parameter>0</Parameter>  
+                <Parameter>1</Parameter>                          
+        </Distribution>
+        <Distribution>
+                <Name>Exponential</Name>
+                <Parameter>1</Parameter>  
+        </Distribution>
+        <Distribution>
+                <Name>Uniform</Name>
+                <Parameter>1</Parameter>  
+        </Distribution>
+</Distributions>

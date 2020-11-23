@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RandomEvents>
+	<RandomEvent>
+		<Name>Wpadłeś(-aś) pod tramwaj</Name>
+		<Description>Wlazłeś(-aś) jak jakaś łamaga pod tramwaj. Cudem przeżyłeś(-aś). [Spędzasz tydzień w szpitalu i dostajesz skromne odszkodowanie.]</Description>
+		<Probability>0.001</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.25</EventHappiness>
+		<EventEnergy>0.05</EventEnergy>
+		<EventMoney>75</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<ActivityName>Jogging</ActivityName>
+		<RoundsTaken>168</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Zasnąłeś(-aś) podczas nauki</Name>
+		<Description>Arcyciekawy materiał znużył cię do tego stopnia, że zdrzemnąłeś(-aś) się na 2 godzinki. W międzyczasie wyleciało ci z głowy nieco wiedzy.</Description>
+		<Probability>0.1</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.01</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Nauka</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity>Spanie</StartsActivity>
+		<NumberOfRounds>2</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Suddenly... impreza</Name>
+		<Description>Kumple zorganizowali huczną imprezę akurat kiedy miałeś(-aś) się uczyć. Byli na tyle przekonywujący, że dołączyłeś(-aś) i balowałeś(-aś) przez kilka następnych godzin.</Description>
+		<Probability>0.2</Probability>
+		<EventKnowledge>-0.01</EventKnowledge>
+		<EventHappiness>0.05</EventHappiness>
+		<EventEnergy>-0.25</EventEnergy>
+		<EventMoney>-50</EventMoney>
+		<ActivityName>Nauka</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity>Imprezowanie</StartsActivity>
+		<NumberOfRounds>8</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Nie bądź żyła, postaw flaszkę!</Name>
+		<Description>W trakcie imprezy doszło do tragedii, skończył się alkohol! Zgadnij kto został sponsorem kolejnej flaszki?</Description>
+		<Probability>0.1</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0</EventHappiness>
+		<EventEnergy>-0.05</EventEnergy>
+		<EventMoney>-75</EventMoney>
+		<ActivityName>Imprezowanie</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Drzemka na zajęciach</Name>
+		<Description>Lecturer used "Nudny wykład". It's Super Effecive! Student has fallen asleep.</Description>
+		<Probability>0.1</Probability>
+		<EventKnowledge>-0.01</EventKnowledge>
+		<EventHappiness>0</EventHappiness>
+		<EventEnergy>0.05</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Zajęcia odwołane! Trzeba to opić!</Name>
+		<Description>Wykładowca zachorował, postanawiasz ze znajomymi wypić jego zdrowie w najbliższym pubie.</Description>
+		<Probability>0.1</Probability>
+		<EventKnowledge>-0.01</EventKnowledge>
+		<EventHappiness>0.25</EventHappiness>
+		<EventEnergy>-0.15</EventEnergy>
+		<EventMoney>-40</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity>Imprezowanie</StartsActivity>
+		<NumberOfRounds>3</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Lista na wykładzie!</Name>
+		<Description>Ktoś puścił plotkę, że na wykładzie będzie lista. Biegniesz na wykład.</Description>
+		<Probability>0.1</Probability>
+		<EventKnowledge>0.15</EventKnowledge>
+		<EventHappiness>-0.1</EventHappiness>
+		<EventEnergy>-0.4</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Surfowanie po necie</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity>Zajęcia</StartsActivity>
+		<NumberOfRounds>2</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Urwali ci od internetu...</Name>
+		<Description>KONIEC ŚWIATA! NIE MA INTERNETU! Gdzie ja teraz znajdę śmieszne obrazki z kotkami? [Przez następne dwie godziny naciskasz F5 przynajmniej raz na 10 sekund]</Description>
+		<Probability>0.1</Probability>
+		<EventKnowledge>-0.02</EventKnowledge>
+		<EventHappiness>-0.3</EventHappiness>
+		<EventEnergy>-0.01</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Surfowanie po necie</ActivityName>
+		<RoundsTaken>2</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Wygrana! Wygrana!</Name>
+		<Description>Po drodze kupiłeś(-aś) kupon w totka. Trzy liczby okazały się identyczne z wylosowanymi. No cóż... samochodu za to nie kupisz...</Description>
+		<Probability>0.01</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.05</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>10</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<ActivityName>Jogging</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Nieoczekiwany przypływ gotówki</Name>
+		<Description>Sprawdzając czy na koncie nie masz jeszcze debetu odkryłeś(-aś), że rodzice przelali ci trochę gotówki.</Description>
+		<Probability>0.05</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.2</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>25</EventMoney>
+		<ActivityName>Serfowanie po necie</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Wizyta w dziekanacie</Name>
+		<Description>Dzisiaj obwieścili, że termin składania papierów w dziekanacie minął wczoraj. Biegniesz do dziekanatu, kolejka kończy się dwa budynki dalej. [tracisz 4 kolejki]</Description>
+		<Probability>0.04</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.5</EventHappiness>
+		<EventEnergy>-0.2</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<RoundsTaken>4</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Godziny rektorskie</Name>
+		<Description>Rektor organizuje popijawę z dziekanami. Nie możecie być gorsi!</Description>
+		<Probability>0.05</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.5</EventHappiness>
+		<EventEnergy>-0.2</EventEnergy>
+		<EventMoney>-50</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity>Imprezowanie</StartsActivity>
+		<NumberOfRounds>4</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Autobus się popsuł</Name>
+		<Description>Solaris płonie, a ty czekasz aż podjedzie stary, dobry Jelcz.</Description>
+		<Probability>0.04</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.1</EventHappiness>
+		<EventEnergy>-0.05</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Robi się gorąco...</Name>
+		<Description>Ktoś podłożył ogień pod główny gmach uczelni. Kibicując płomieniom, pijecie zdrowie podpalacza.</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>-0.05</EventKnowledge>
+		<EventHappiness>0.1</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>-5</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Masz problem?</Name>
+		<Description>Kilku zainteresowanych twoim samopoczuciem osobników w dresach z 4 paskami uznało za konieczne pozbycie cię dóbr doczesnych, tak abyś mógł się skoncentrować na potrzebach swojej duszy. [czyli skroili cię z komóry i portfela]</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>0.01</EventKnowledge>
+		<EventHappiness>-0.3</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>-100</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<ActivityName>Praktyki</ActivityName>
+		<ActivityName>Praca dorywcza</ActivityName>
+		<ActivityName>Jogging</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Wysokoprocentowa inwestycja</Name>
+		<Description>Wraz z kilkoma znajomymi postanawiacie zainwestować w Bimber Gold. Inwestycja zwraca się wam dosyć szybko. Z radości obejmujecie muszlę.</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.15</EventHappiness>
+		<EventEnergy>-0.15</EventEnergy>
+		<EventMoney>-10</EventMoney>
+		<ActivityName>Imprezowanie</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Piwo w Realu za złoty dwajścia dziewięć!</Name>
+		<Description>/Złoty dwajścia dziewięć?/ DWAJŚCIA DZIEWIEEEEEĆ. /DOSTAJESZ MEDAL SYNUKOBIETYLEKKICHOBYCZAJÓW./ DWAJŚCIA DZIEWIĘĆ. /CHĘDOŻONY MEDAL./</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.1</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>-1</EventMoney>
+		<ActivityName>Serfowanie po necie</ActivityName>
+		<ActivityName>Imprezowanie</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Gniewne ptaki</Name>
+		<Description>Gra wciągnęła cię tak bardzo, że nawet nie zauważyłeś(-aś) kiedy minęło ci kilka godzin.</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.1</EventHappiness>
+		<EventEnergy>-0.1</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Surfowanie po necie</ActivityName>
+		<RoundsTaken>4</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Skończyła ci się kawa</Name>
+		<Description>Efektywność nauki drastycznie maleje.</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>-0.5</EventKnowledge>
+		<EventHappiness>-0.05</EventHappiness>
+		<EventEnergy>-0.1</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Nauka</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Dwutygodniowa kanapka</Name>
+		<Description>Co to jest: zielone, śmierdzące i niejadalne? Dwutygodniowa kanapka! Sprawdzanie teorii jakoby studentów nie dotyczyło "niejadalne" nie wyszło ci na dobre...</Description>
+		<Probability>0.01</Probability>
+		<EventKnowledge>0.0001</EventKnowledge>
+		<EventHappiness>-0.1</EventHappiness>
+		<EventEnergy>-0.1</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Nauka</ActivityName>
+		<ActivityName>Imprezowanie</ActivityName>
+		<ActivityName>Serfowanie po necie</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>MUST WATCH THIS, NOW!</Name>
+		<Description>Wyszedł kolejny odcinek twojego ulubionego serialu. Na pewno znajdziesz go w Zatoce Piratów</Description>
+		<Probability>0.06</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.5</EventHappiness>
+		<EventEnergy>0.01</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Serfowanie po necie</ActivityName>
+		<ActivityName>Nauka</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>ŁUP!</Name>
+		<Description>Współlokator budzi cię głośno uderzając głową w biurko. Jutro ma kolokwium...</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.1</EventHappiness>
+		<EventEnergy>-0.05</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Spanie</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Ups!</Name>
+		<Description>Rozlało ci się piwo. Wpadasz w ciężką depresję. Przez następną godzinę dochodzisz do siebie.</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>0.0001</EventKnowledge>
+		<EventHappiness>-0.8</EventHappiness>
+		<EventEnergy>-0.05</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Imprezowanie</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Cenne znalezisko</Name>
+		<Description>Znajdujesz złotówkę! Dorzucasz do niej drugą z własnej kieszeni i idziesz na piwo</Description>
+		<Probability>0.01</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.15</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>-1</EventMoney>
+		<ActivityName>Zajęcia</ActivityName>
+		<ActivityName>Jogging</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Oh god, why?</Name>
+		<Description>Trafiłeś(-aś) w tą część Internetu, która z całą pewnością powinna być nielegalna. Obgryzasz paznokcie w kąciku przez następną godzinę.</Description>
+		<Probability>0.01</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.3</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Serfowanie po necie</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Jak to działa?</Name>
+		<Description>Chyba trochę za późno na to pytanie po tym jak uszkodziłeś(-aś) sprzęt?</Description>
+		<Probability>0.01</Probability>
+		<EventKnowledge>0.05</EventKnowledge>
+		<EventHappiness>-0.3</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>-50</EventMoney>
+		<ActivityName>Praktyki</ActivityName>
+		<ActivityName>Praca dorywcza</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Pracuś</Name>
+		<Description>Charujesz jak wół, twój szef w końcu zwrócił na to uwagę i dał ci premię! Powstrzymujesz się od komentarza na temat tego gdzie może sobie wsadzić tego piątaka.</Description>
+		<Probability>0.02</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>5</EventMoney>
+		<ActivityName>Praktyki</ActivityName>
+		<ActivityName>Praca dorywcza</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Umieram!</Name>
+		<Description>Leci ci z nosa, w gardle kłuje, a temperatura wzrosła do zatrważających 36,8 stopni! Nie ma mowy, nigdzie nie idziesz!</Description>
+		<Probability>0.01</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0</EventHappiness>
+		<EventEnergy>-0.05</EventEnergy>
+		<EventMoney>5</EventMoney>
+		<ActivityName>Praktyki</ActivityName>
+		<ActivityName>Praca dorywcza</ActivityName>
+		<ActivityName>Zajęcia</ActivityName>
+		<ActivityName>Jogging</ActivityName>
+		<RoundsTaken>2</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Zalegizybać Marihunaen?</Name>
+		<Description>Legalna marihuana to ulga dla organów ścigania... a przy okazji nie musiałbyś kupować na imprezę drogiego stuffu zmieszanego z majerankiem od którego ledwo się uśmiechasz pod nosem...</Description>
+		<Probability>0.01</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.01</EventHappiness>
+		<EventEnergy>-0.05</EventEnergy>
+		<EventMoney>-25</EventMoney>
+		<ActivityName>Imprezowanie</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>UFO! Porwało mnie UFO!</Name>
+		<Description>Czy to ptak? Czy to samolot? Nie to latający spodek! Porwali cię, aby dokonać tajemniczych eksperymentów, po powrocie na Ziemię czujesz się dziwnie... szczęśliwy...</Description>
+		<Probability>0.000001</Probability>
+		<EventKnowledge>1</EventKnowledge>
+		<EventHappiness>1</EventHappiness>
+		<EventEnergy>1</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Imprezowanie</ActivityName>
+		<ActivityName>Praktyki</ActivityName>
+		<ActivityName>Praca dorywcza</ActivityName>
+		<ActivityName>Zajęcia</ActivityName>
+		<ActivityName>Jogging</ActivityName>
+		<RoundsTaken>8</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Sztrasburger się chowa</Name>
+		<Description>Twój współlokator zarzucił sucharem, który wysuszyłby Ocean Spokojny.</Description>
+		<Probability>0.01</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.5</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Nauka</ActivityName>
+		<ActivityName>Serfowanie po necie</ActivityName>
+		<ActivityName>Czytanie książki</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Boki zrywać!</Name>
+		<Description>Twój współlokator znów popisał się swoją elokwencją. Prof. Miodek już zapowiedział, że przeanalizuje dokładnie jego wypowiedź.</Description>
+		<Probability>0.005</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.5</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Nauka</ActivityName>
+		<ActivityName>Serfowanie po necie</ActivityName>
+		<ActivityName>Czytanie książki</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Interesująca plama...</Name>
+		<Description>Jeśli obrócę głowę o 33 stopnie na południowy zachód i przekręcę ją tak, żeby była ułożona równolegle do krzywej wieży w Pizie to ta plama na ścianie odrobinę przypomina ziemniaka.</Description>
+		<Probability>0.15</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Gapienie się w ścianę</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Bzzzzzzzzzz</Name>
+		<Description>Mucha. Cóż za fascynujące stworzenie. Tak sobie lata i przysiada czasem na ścianie. Niewzruszona majestatem rzeczywistości, po prostu bzyczy...</Description>
+		<Probability>0.15</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Gapienie się w ścianę</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Damn you, Martin!</Name>
+		<Description>George R.R. znów uśmiercił twoją ulubioną postać!</Description>
+		<Probability>0.1</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.2</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Czytanie książki</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>(Nie) spieszcie się czytać książki... tak szybko się kończą.</Name>
+		<Description>Koniec trylogii. Czujesz niesamowitą pustkę, nie możesz uwierzyć, że to już koniec, co ja teraz pocznę?</Description>
+		<Probability>0.05</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>-0.1</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Czytanie książki</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Wspaniała!</Name>
+		<Description>Genialna! Niesamowita! Arcydzieło literatury! Skończyłeś(-aś) czytać książkę, która okazała się być fantastyczna! Delektujesz się jej zakończeniem przez następną godzinę.</Description>
+		<Probability>0.05</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.25</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>0</EventMoney>
+		<ActivityName>Czytanie książki</ActivityName>
+		<RoundsTaken>1</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+	<RandomEvent>
+		<Name>Ciekawe co dalej...</Name>
+		<Description>Skończyłeś(-aś) czytać książkę, nie mogąc doczekać się tego co dzieje się dalej od razu zamawiasz kolejne części.</Description>
+		<Probability>0.03</Probability>
+		<EventKnowledge>0</EventKnowledge>
+		<EventHappiness>0.05</EventHappiness>
+		<EventEnergy>0</EventEnergy>
+		<EventMoney>-40</EventMoney>
+		<ActivityName>Czytanie książki</ActivityName>
+		<RoundsTaken>0</RoundsTaken>
+		<StartsActivity></StartsActivity>
+		<NumberOfRounds>0</NumberOfRounds>
+	</RandomEvent>
+</RandomEvents>

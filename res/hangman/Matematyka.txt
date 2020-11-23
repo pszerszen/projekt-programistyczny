@@ -1,0 +1,32 @@
+#######################################
+#Macierz
+uk³ad liczb symboli wyra¿eñ zapisanych w postaci prostok¹tnej tablicy.
+#Macierz diagonalna
+macierz, zwykle kwadratowa[1], której wszystkie wspó³czynniki le¿¹ce poza g³ówn¹ przek¹tn¹ (g³ówn¹ diagonal¹) s¹ zerowe.
+#Macierz trójk¹tna
+macierz kwadratowa, której wszystkie wspó³czynniki pod g³ówn¹ przek¹tn¹ lub wszystkie wspó³czynniki nad t¹ przek¹tn¹ s¹ równe zero. 
+#Uwarunkowanie zadania
+wp³yw niewielkiej zmiany danych na odkszta³cenie wyników.
+#Pochodna Funkcji
+miara szybkoœci zmian wartoœci funkcji wzglêdem zmian jej argumentów
+#Wzór Taylora
+przedstawienie funkcji (n+1)-razy ró¿niczkowalnej przy pomocy wielomianu zale¿nego od kolejnych jej pochodnych oraz dostatecznie ma³ej reszty.
+#Szereg Laurenta
+reprezentacja funkcji zespolonej w postaci szeregu potêgowego, w którym wystêpuj¹ równie¿ sk³adniki o wyk³adniku ujemnym.
+#Cia³o Galois
+w teorii cia³ cia³o skoñczonego rzêdu, tj. o skoñczonej liczbie elementów;
+#interpolacja trygonometryczna
+metoda przybli¿ania funkcji za pomoc¹ wielomianu trygonometrycznego 
+#Szereg Fouriera
+szereg pozwalaj¹cy roz³o¿yæ funkcjê okresow¹, spe³niaj¹c¹ warunki Dirichleta, na sumê funkcji trygonometrycznych.
+#Warunki Dirichleta 
+warunki wystarczaj¹ce aby funkcja okresowa posiada³a reprezentacjê w postaci szeregu Fouriera oraz posiada³a transformatê Fouriera
+#Dystrybuanta
+funkcja rzeczywista jednoznacznie wyznaczaj¹ca rozk³ad prawdopodobieñstwa, a wiêc zawieraj¹ca informacje o tym rozk³adzie. 
+#okr¹g Feuerbacha
+okr¹g, który przechodzi przez œrodki boków dowolnego trójk¹ta. 
+#Nierównoœæ Czebyszewa
+podaje górne ograniczenie prawdopodobieñstwa zdarzenia, ¿e wartoœæ nieujemnej zmiennej losowej jest wiêksza lub równa od z góry ustalonej dodatniej liczby.
+#Hiperbola
+ krzywa sto¿kowa bêd¹ca zbiorem takich punktów, ¿e wartoœæ bezwzglêdna ró¿nicy odleg³oœci tych punktów od dwóch punktów, nazywanych ogniskami hiperboli, jest sta³a.
+#######################################

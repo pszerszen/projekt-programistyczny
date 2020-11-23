@@ -1,0 +1,324 @@
+﻿<FieldOfStudy>
+	<Course>
+		<Title>Wstęp do informatyki</Title>
+		<Difficulty>40</Difficulty>
+		<Semester>1</Semester>
+		<Exam>false</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Algebra z geometrią analityczną</Title>
+		<Difficulty>80</Difficulty>
+		<Semester>1</Semester>
+		<Exam>false</Exam>
+		<ECTS>8</ECTS>
+	</Course>
+	<Course>
+		<Title>Analiza matematyczna 1</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>1</Semester>
+		<Exam>true</Exam>
+		<ECTS>8</ECTS>
+	</Course>
+	<Course>
+		<Title>Logika i struktury formalne</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>1</Semester>
+		<Exam>true</Exam>
+		<ECTS>8</ECTS>
+	</Course>
+	<Course>
+		<Title>Etyka</Title>
+		<Difficulty>5</Difficulty>
+		<Semester>1</Semester>
+		<Exam>false</Exam>
+		<ECTS>2</ECTS>
+	</Course>
+	<Course>
+		<Title>Urządzenia techniki komputerowej</Title>
+		<Difficulty>40</Difficulty>
+		<Semester>2</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Fizyka</Title>
+		<Difficulty>60</Difficulty>
+		<Semester>2</Semester>
+		<Exam>true</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Wstęp do programowania</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>2</Semester>
+		<Exam>false</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Algebra abstrakcyjna i kodowanie</Title>
+		<Difficulty>75</Difficulty>
+		<Semester>2</Semester>
+		<Exam>true</Exam>
+		<ECTS>8</ECTS>
+	</Course>
+	<Course>
+		<Title>Analiza matematyczna 2</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>2</Semester>
+		<Exam>true</Exam>
+		<ECTS>8</ECTS>
+	</Course>
+	<Course>
+		<Title>Problemy społeczne i zawodowe pracy inżyniera</Title>
+		<Difficulty>45</Difficulty>
+		<Semester>2</Semester>
+		<Exam>false</Exam>
+		<ECTS>2</ECTS>
+	</Course>
+	<Course>
+		<Title>Zajęcia sportowe</Title>
+		<Difficulty>1</Difficulty>
+		<Semester>2</Semester>
+		<Exam>false</Exam>
+		<ECTS>1</ECTS>
+	</Course>
+	<Course>
+		<Title>Laboratorium z fizyki</Title>
+		<Difficulty>55</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>1</ECTS>
+	</Course>
+	<Course>
+		<Title>Wstęp do fizyki technologii informatycznych</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Kurs programowania 1</Title>
+		<Difficulty>60</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Logika algorytmiczna</Title>
+		<Difficulty>60</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Systemy operacyjne</Title>
+		<Difficulty>40</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Algorytmy i struktury danych</Title>
+		<Difficulty>100</Difficulty>
+		<Semester>3</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Matematyka dyskretna</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>3</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Język obcy</Title>
+		<Difficulty>15</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>2</ECTS>
+	</Course>
+	<Course>
+		<Title>Podstawy elektroniki</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>4</Semester>
+		<Exam>true</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Grafika komputerowa i wizualizacja</Title>
+		<Difficulty>50</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Kurs programowania 2</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Technologie sieciowe</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>4</Semester>
+		<Exam>true</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Zarządzanie projektami informatycznymi</Title>
+		<Difficulty>50</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Kodowanie i bezpieczeństwo informacji</Title>
+		<Difficulty>80</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Język obcy 2</Title>
+		<Difficulty>35</Difficulty>
+		<Semester>4</Semester>
+		<Exam>true</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Wybrane zagadnienia algebry</Title>
+		<Difficulty>60</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Projekt programistyczny</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>5</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Bazy danych i zarządzanie informacją</Title>
+		<Difficulty>50</Difficulty>
+		<Semester>5</Semester>
+		<Exam>true</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Obliczenia naukowe i metody numeryczne</Title>
+		<Difficulty>90</Difficulty>
+		<Semester>5</Semester>
+		<Exam>true</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Języki i paradygmaty programowania</Title>
+		<Difficulty>75</Difficulty>
+		<Semester>5</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Metody probabilistyczne i statystyka</Title>
+		<Difficulty>85</Difficulty>
+		<Semester>5</Semester>
+		<Exam>false</Exam>
+		<ECTS>8</ECTS>
+	</Course>
+	<Course>
+		<Title>Selected choice of Computer Science</Title>
+		<Difficulty>35</Difficulty>
+		<Semester>5</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Projekt zespołowy</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>6</Semester>
+		<Exam>false</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Języki formalne i techniki translacji</Title>
+		<Difficulty>75</Difficulty>
+		<Semester>6</Semester>
+		<Exam>true</Exam>
+		<ECTS>7</ECTS>
+	</Course>
+	<Course>
+		<Title>Aplikacje bazodanowe</Title>
+		<Difficulty>60</Difficulty>
+		<Semester>6</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Programowanie niskopoziomowe</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>6</Semester>
+		<Exam>false</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Systemy wbudowane</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>6</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Wybrane zagadnienia informatyki technicznej</Title>
+		<Difficulty>55</Difficulty>
+		<Semester>6</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Seminarium dyplomowe</Title>
+		<Difficulty>15</Difficulty>
+		<Semester>7</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Projekt inżynierski</Title>
+		<Difficulty>100</Difficulty>
+		<Semester>7</Semester>
+		<Exam>true</Exam>
+		<ECTS>15</ECTS>
+	</Course>
+	<Course>
+		<Title>Praktyka</Title>
+		<Difficulty>80</Difficulty>
+		<Semester>7</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Kryptografia</Title>
+		<Difficulty>85</Difficulty>
+		<Semester>7</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Wybrane zagadnienia topologii</Title>
+		<Difficulty>75</Difficulty>
+		<Semester>7</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Teoria grafów</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>7</Semester>
+		<Exam>false</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+</FieldOfStudy>

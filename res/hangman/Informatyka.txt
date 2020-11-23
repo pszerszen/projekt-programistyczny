@@ -1,0 +1,34 @@
+#######################################
+#Odwrotna notacja polska
+sposób zapisu wyra¿eñ arytmetycznych, w którym znak wykonywanej operacji umieszczony jest po operandach (zapis postfiksowy).
+#Interpreter
+program t³umacz¹cy instrukcjê jêzyka programowania na jêzyk maszynowy. Ka¿da przet³umaczona linia programu Ÿród³owego jest natychmiast t³umaczona i wykonywana. 
+#Kompilator
+program t³umacz¹cy z jêzyka programowania na jêzyk maszynowy. Program jest najpierw w ca³oœæi t³umaczony, efektem jest program wykonywalny.
+#Interfejs mózg komputer
+interfejs pozwalaj¹cy na bezpoœredni¹ komunikacjê pomiêdzy mózgiem a odpowiednim urz¹dzeniem zewnêtrznym.
+#karta dziurkowana 
+noœnik danych stosowany do zapisu informacji w maszynach z automatycznym przetwarzaniem danych 
+#Pracowity bóbr
+maszyna Turinga o z góry zadanej liczbie stanów N, która zaczynaj¹c od pustej taœmy, generuje jak najd³u¿szy ci¹g jedynek , po czym zatrzymuje siê.
+#Maszyna Turinga 
+abstrakcyjny model komputera s³u¿¹cego do wykonywania algorytmów, sk³adaj¹cego siê z nieskoñczenie d³ugiej taœmy podzielonej na pola.
+#Kod Manchester
+kod liniowy sygna³u sygna³u cyfrowego (modulacja bifazowa)
+#komputer kwantowy
+uk³ad fizyczny do opisu którego wymagana jest mechanika kwantowa, zaprojektowany tak, aby wynik ewolucji tego uk³adu reprezentowa³ rozw. okreœlonego prob. obliczeniowego.
+#hurtownia danych
+rodzaj bazy danych, która jest zorganizowana i zoptymalizowana pod k¹tem pewnego wycinka rzeczywistoœci.
+#Pow³oka systemowa
+program komputerowy pe³ni¹cy rolê poœrednika pomiêdzy systemem operacyjnym lub aplikacjami a u¿ytkownikiem
+#Regenerator sygna³u 
+urz¹dzenie stosowane w telekomunikacji do regeneracji sygna³u
+#Port protoko³u
+protoko³y u¿ywane w Internecie do identyfikowania procesów dzia³aj¹cych na odleg³ych systemach.
+#Model OSI
+model odniesienia ³¹czenia systemów otwartych) – standard zdefiniowany przez ISO oraz ITU-T opisuj¹cy strukturê komunikacji sieciowej.
+#Z³¹cze COM
+port szeregowy  w komputerze, umo¿liwiaj¹cy pod³¹czenie np. myszy lub modemu
+#Zegar atomowy
+rodzaj zegara, którego dzia³anie opiera siê na zliczaniu okresów atomowego wzorca czêstotliwoœci.
+#######################################

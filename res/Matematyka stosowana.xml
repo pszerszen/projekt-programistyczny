@@ -1,0 +1,289 @@
+﻿<FieldOfStudy>
+	<Course>
+		<Title>Przegląd wybranych osiągnięć technicznych</Title>
+		<Difficulty>40</Difficulty>
+		<Semester>1</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Wstęp do informatyki i programowania</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>1</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Analiza matematyczna 1</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>1</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Elementy logiki i teorii mnogości</Title>
+		<Difficulty>75</Difficulty>
+		<Semester>1</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Etyka</Title>
+		<Difficulty>5</Difficulty>
+		<Semester>1</Semester>
+		<Exam>false</Exam>
+		<ECTS>2</ECTS>
+	</Course>
+	<Course>
+		<Title>Algebra liniowa i geometria analityczna</Title>
+		<Difficulty>80</Difficulty>
+		<Semester>1</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Programowanie</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>2</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Technologie informacyjne</Title>
+		<Difficulty>45</Difficulty>
+		<Semester>2</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Algebra</Title>
+		<Difficulty>75</Difficulty>
+		<Semester>2</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Analiza matematyczna 2</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>2</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Pakiety matematyczne</Title>
+		<Difficulty>55</Difficulty>
+		<Semester>2</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Zajęcia sportowe</Title>
+		<Difficulty>1</Difficulty>
+		<Semester>2</Semester>
+		<Exam>false</Exam>
+		<ECTS>1</ECTS>
+	</Course>
+	<Course>
+		<Title>Mechanika i termodynamika</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Metrologia z akwizycją danych</Title>
+		<Difficulty>55</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Równania różniczkowe w technice</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>3</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Rachunek prawdopodobieństwa</Title>
+		<Difficulty>60</Difficulty>
+		<Semester>3</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Algorytmy i struktury danych</Title>
+		<Difficulty>80</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Język obcy</Title>
+		<Difficulty>15</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>2</ECTS>
+	</Course>
+	<Course>
+		<Title>Zajęcia sportowe</Title>
+		<Difficulty>1</Difficulty>
+		<Semester>3</Semester>
+		<Exam>false</Exam>
+		<ECTS>1</ECTS>
+	</Course>
+	<Course>
+		<Title>Ochrona własności intelektualnej</Title>
+		<Difficulty>35</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>2</ECTS>
+	</Course>
+	<Course>
+		<Title>Fale sprężyste i elektromagnetyczne</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Statystyka stosowana</Title>
+		<Difficulty>60</Difficulty>
+		<Semester>4</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Modelowanie stochastyczne</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>4</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Analiza sygnałów</Title>
+		<Difficulty>55</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Symulacje komputerowe</Title>
+		<Difficulty>50</Difficulty>
+		<Semester>4</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Język obcy 2</Title>
+		<Difficulty>35</Difficulty>
+		<Semester>4</Semester>
+		<Exam>true</Exam>
+		<ECTS>3</ECTS>
+	</Course>
+	<Course>
+		<Title>Podstawy zarządzania</Title>
+		<Difficulty>30</Difficulty>
+		<Semester>5</Semester>
+		<Exam>false</Exam>
+		<ECTS>2</ECTS>
+	</Course>
+	<Course>
+		<Title>Komputerowa analiza szeregów</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>5</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Metody numeryczne</Title>
+		<Difficulty>90</Difficulty>
+		<Semester>5</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Matematyka dla przemysłu</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>5</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Modele stochastyczne niezawodności systemów</Title>
+		<Difficulty>75</Difficulty>
+		<Semester>5</Semester>
+		<Exam>false</Exam>
+		<ECTS>5</ECTS>
+	</Course>
+	<Course>
+		<Title>Zastosowania równań różniczkowych cząstkowych</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>5</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Praktyka studencka</Title>
+		<Difficulty>50</Difficulty>
+		<Semester>6</Semester>
+		<Exam>false</Exam>
+		<ECTS>4</ECTS>
+	</Course>
+	<Course>
+		<Title>Bazy danych</Title>
+		<Difficulty>60</Difficulty>
+		<Semester>6</Semester>
+		<Exam>false</Exam>
+		<ECTS>7</ECTS>
+	</Course>
+	<Course>
+		<Title>Zarządzanie ryzykiem w przemyśle</Title>
+		<Difficulty>40</Difficulty>
+		<Semester>6</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Metody analizy rzeczywistej</Title>
+		<Difficulty>70</Difficulty>
+		<Semester>6</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Modelowanie rynków finansowych</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>6</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Seminarium dyplomowe</Title>
+		<Difficulty>15</Difficulty>
+		<Semester>7</Semester>
+		<Exam>false</Exam>
+		<ECTS>2</ECTS>
+	</Course>
+	<Course>
+		<Title>Praca dyplomowa</Title>
+		<Difficulty>100</Difficulty>
+		<Semester>7</Semester>
+		<Exam>true</Exam>
+		<ECTS>15</ECTS>
+	</Course>
+	<Course>
+		<Title>Procesy stochastyczne i ich zastosowania</Title>
+		<Difficulty>80</Difficulty>
+		<Semester>7</Semester>
+		<Exam>true</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+	<Course>
+		<Title>Podstawy mechatroniki</Title>
+		<Difficulty>65</Difficulty>
+		<Semester>7</Semester>
+		<Exam>false</Exam>
+		<ECTS>6</ECTS>
+	</Course>
+</FieldOfStudy>
